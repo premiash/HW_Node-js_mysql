@@ -1,0 +1,25 @@
+{
+  "name": "bamazon",
+  "version": "1.0.0",
+  "description": "application",
+  "main": "bamazonCustomer.js",
+  "dependencies": {
+    "console.table": "^0.8.0",
+    "inquirer": "^3.0.6",
+    "mysql": "^2.13.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/premiash/HW_Node-js_mysql.git"
+  },
+  "author": "Ashmy",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/premiash/HW_Node-js_mysql/issues"
+  },
+  "homepage": "https://github.com/premiash/HW_Node-js_mysql#readme"
+}
